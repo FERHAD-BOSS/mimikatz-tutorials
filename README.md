@@ -44,5 +44,5 @@
 
 # \###  Total Views
 
-# !\[Visitor Counter](https://glitch.me)
+![Visitor Counter](https://glitch.me)
 
